@@ -14,12 +14,12 @@
         <input
             type="password"
             name="password"
-            value="CTFpass123!"
+            value="CTFpasspass123!"
         >
         <input
             type="password"
             name="confirm-password"
-            value="CTFpass123!"
+            value="CTFpasspass123!"
         >
     </form>
 
